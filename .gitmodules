@@ -1,3 +1,0 @@
-[submodule "lib"]
-	path = lib
-	url = git@git.freebus.org:freebus_avr_lib
